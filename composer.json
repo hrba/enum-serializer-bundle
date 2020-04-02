@@ -1,5 +1,5 @@
 {
-    "name": "aboutcoders/enum-serializer-bundle",
+    "name": "hrba/enum-serializer-bundle",
     "type": "symfony-bundle",
     "description": "A symfony bundle to serialize/deserialize enumerations of type myclabs/php-enum with jms/serializer",
     "keywords": ["enum", "php-enum", "serialize", "deserialize", "jms", "serializer"],
